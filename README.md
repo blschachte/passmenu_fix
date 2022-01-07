@@ -1,2 +1,2 @@
 # passmenu_fix
-Bash script that integrates pass &amp; dmenu, for configurations where passmenu is broken
+Bash script that integrates pass & dmenu, for configurations where passmenu is broken
